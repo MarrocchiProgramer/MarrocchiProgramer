@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarrocchiProgramer from Argentina, Buenos Aires
+- 👋 Hi, I’m @MarrocchiProgramer from Argentina, Buenos Aires.
 - 👀 I’m interested in web development, HTML, CSS, JavaScript, PhP,etc.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on a company as a junior developer.
 - 📫 How to reach me tomasmarrocchi@gmail.com
 

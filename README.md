@@ -1,6 +1,6 @@
-🏆 CHAMPION OF SOLVE FOR TOMORROW 2023 🏆
-.
-.
+🏆 SAMSUNG SOLVE FOR TOMORROW 2023 𝐂𝐇𝐀𝐌𝐏𝐈𝐎𝐍 🏆
+-
+-
 - 👋 Hi, I’m @MarrocchiProgramer from Argentina, Buenos Aires.
 - 👀 I’m interested in web development, HTML, CSS, JavaScript, PhP,Django,etc.
 - 🌱 I’m currently learning web development.
